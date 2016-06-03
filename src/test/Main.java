@@ -7,6 +7,7 @@ public class Main {
         for (String s: args) {
             System.out.println(s);
         }
+        System.out.println("Bye!");
     }
 }
 
